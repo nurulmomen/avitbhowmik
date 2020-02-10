@@ -4,7 +4,7 @@ title: "Avit Bhowmik on Exponential Climate Action Roadmap"
 date: 2019-11-20
 description: 
 image: /assets/images/exp_road.jpg
-author: Thomas Vaeth
+author: Avit K. Bhowmik
 tags: 
   - Exponential Climate Action
   - Climate Action
