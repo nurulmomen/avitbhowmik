@@ -11,4 +11,4 @@ tags:
   - Sustainability
   - Developing countries
 ---
-You should be alarmed by levels of chemical pollution in water and soil in both developed and developing countries. Read [here](https://www.stockholmresilience.org/research/research-news/2017-06-09-how-far-are-we-pushing-chemical-boundaries.html) and find out more.
+You should be alarmed by the levels of chemical pollution in water and soil in both developed and developing countries. Read [here](https://www.stockholmresilience.org/research/research-news/2017-06-09-how-far-are-we-pushing-chemical-boundaries.html) and find out more.
