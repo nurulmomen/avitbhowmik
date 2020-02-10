@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Could geoengineering projects help tackle climate change?"
+date: 2020-01-31
+description: 
+image: /assets/images/geoeng.jpg
+author: Avit K. Bhowmik
+tags:
+  - Geoengineering
+  - Climate restoration
+  - Climate action
+  - Natural climate solutions
+---
+A range of technologies — loosely defined as 'geoengineering' — are being explored as responses to climate change. Yet their effectiveness, and whether they should be implemented at all, is debated among scientists. Read my interview with [Deutsche Welle](https://www.dw.com/en/geoengineering-climate-change-projects/a-52117714?maca=en-Facebook-sharing&fbclid=IwAR0wjxEVwZ7Zx84dlsIqTPzfbaKIUS2k3RBYk86RTUx17LOdRE3l1Mp0_yg).
