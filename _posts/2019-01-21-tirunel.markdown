@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Urbanisation of Tirunelveli city might warm it up"
+date: 2019-01-21
+description: 
+image: /assets/images/tirunel.jpg
+author: Avit K. Bhowmik
+tags: 
+  - Urban heat islands
+  - Climate change
+  - Urbanization
+  - Sustainability
+---
+The unprecedented rate of urbanisation is taking toll on cities' climate and environment globally, but the most profound impacts are evident in the fast growing cities in developing countries, like in Tirunelveli, Tamil Nadu, India. Urban heat islands are emerging abruptly and instantaneously. The good news is that we can now confidently model such emergences, like we did in our new paper in PlOS One by fusing imageries from multiple satellite sensors. Read my interview with [The Hindu](https://www.thehindu.com/sci-tech/science/urbanisation-of-tirunelveli-city-might-warm-it-up/article26037548.ece?fbclid=IwAR3U_kcOcsdU7X708OPDWpObw9yYKYBjSOpgaupq1gXQY0YYHHu1QMt0yqQ).
