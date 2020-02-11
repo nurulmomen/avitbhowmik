@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A planetary recovery"
-date: 2020-04-04
+date: 2020-02-04
 description: 
 image: /assets/images/plan_rec.jpg
 author: Avit K. Bhowmik
