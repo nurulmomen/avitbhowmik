@@ -3,7 +3,7 @@ layout: post
 title: "Global Solutions Program"
 date: 2017-10-12
 description: 
-image: https://player.vimeo.com/video/227482878
+image: https://vimeo.com/227482878
 author: Avit K. Bhowmik
 tags: 
   - Exponential climate action
