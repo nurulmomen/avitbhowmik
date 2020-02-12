@@ -3,8 +3,7 @@ layout: post
 title: "Global Solutions Program"
 date: 2017-10-12
 description: 
-image: <iframe src="https://player.vimeo.com/video/227482878" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/227482878">Stockholm Resilience Center workshop at the Global Solutions Program | Singularity University</a> from <a href="https://vimeo.com/singularityu">Singularity University</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+image: https://player.vimeo.com/video/227482878
 author: Avit K. Bhowmik
 tags: 
   - Exponential climate action
