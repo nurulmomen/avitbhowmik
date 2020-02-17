@@ -12,12 +12,13 @@ layout: default
     {% if page.image %}
       <div class="post__img">
         <div>
-          <figure class="absolute-bg" style="background-image: url('{{ page.image }}');">
-            <img alt="{{ page.credit }}">
-            <figcaption>{{ page.credit }}</figcaption>
-          </figure>
+          <figure class="absolute-bg" style="background-image: url('{{ page.image }}');"></figure>
         </div>
       </div>
+    {% endif %}
+
+    {% if page.credit %}
+      <em>{{page.credit}}</em>
     {% endif %}
 
     <div class="post__content section-padding">
