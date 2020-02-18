@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Why would India's decision on Renewable Energy matter globally?
+title: "Why would India's decision on Renewable Energy matter globally?"
 date: 2016-01-03
 description: 
 image: /assets/images/solarindia.jpg
 credit: "Image credit: Bryan Derballa and Charles C. Mann"
 author: Avit K. Bhowmik
-tags:
-	- Renewable energy
-	- India
-	- Coal
-	- Sustainability]
-
+tags: 
+  - Renewable energy
+  - India
+  - Coal
+  - Sustainability
 ---
 
 The government of the modern-day emerging global power - India, is committed to provide its every single citizen with electricity in no time. While the government has two alternative choices to bring this commitment to life, the pathways and consequences of these two choices are quite contrasting.
