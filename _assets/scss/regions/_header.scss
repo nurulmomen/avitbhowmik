@@ -20,7 +20,7 @@
     left: 1em;
   }
 
-  background-color: yellow;
+  background-color: $color-white;
   border-bottom: $border;
 
   @media (min-width: $mq-small) {
