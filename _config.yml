@@ -2,12 +2,12 @@
 email: avit.bhowmik@kau.se
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics: UA-70156509-1
 
 name: Avit K. Bhowmik
 title: Avit Bhowmik | I care for climate and environment
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Avit Bhowmik is an Assistant Professor of Risk and Environmental Studies in Karlstad University
 url: http://avitbhowmik.ml
 twitter_username: avitbhowmik
 default_img: /assets/images/placeholder-28.jpg
