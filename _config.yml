@@ -10,7 +10,7 @@ description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: http://avitbhowmik.ml
 twitter_username: avitbhowmik
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/placeholder-28.jpg
 social:
   - name: twitter
     url: https://twitter.com/avitbhowmik
@@ -19,7 +19,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/avitbhowmik/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/AvitBhowmik
   - name: facebook
     url: https://www.facebook.com/akbhowmik
 
