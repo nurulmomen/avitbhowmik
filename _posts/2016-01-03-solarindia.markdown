@@ -3,7 +3,7 @@ layout: post
 title: Why would India's decision on Renewable Energy matter globally?
 date: 2016-01-03
 description: 
-image: http://www.wired.com/wp-content/uploads/2015/11/india_solar_energy032-660x371.jpg
+image: /assets/images/solarindia.jpg
 credit: "Image credit: Bryan Derballa and Charles C. Mann"
 author: Avit K. Bhowmik
 tags:
