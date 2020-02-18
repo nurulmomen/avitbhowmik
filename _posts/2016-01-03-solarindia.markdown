@@ -17,11 +17,6 @@ The government of the modern-day emerging global power - India, is committed to 
 
 Flourishing renewable energy, such as abundant solar power in India is the environment friendly and sustainable way to go, but comes with the challenges of field level implementation and resource inadequacy. On the other hand, the lethal and inefficient coal may also serve the purpose by burning several villages, while being friendly to the prevailing bureaucracy. Whatever India's choice would be, it will leave a global impact and thus of considerable concern for scientists like me, who focuses on earth dynamics and human perturbations. Nice read from Charles C. Mann on Wired, [continue reading:](http://www.wired.com/2015/11/climate-change-in-india/)
 
-<p> <iframe 
- src="http://www.wired.com/2015/11/climate-change-in-india/"
- width="100%" height="1000">
-</iframe> </p>
-
 
 
 
