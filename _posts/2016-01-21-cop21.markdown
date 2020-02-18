@@ -4,7 +4,7 @@ title: "COP 21 - The hardest path is ahead of us!"
 date: 2016-01-21
 description: 
 image: /assets/images/cop21.jpg
-credit: "Image credit: Jesuit European Social Centre (JESC)"
+credit: "Image credit: Columbia University"
 author: Avit K. Bhowmik
 tags: 
   - COP 21
