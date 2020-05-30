@@ -1,0 +1,82 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is '/Users/avitkbhowmik/Work/Docentur/CV_Bhowmik/CV_Bhowmik.blg'
+[49] biber-darwin:313> INFO - === Mon Dec  9, 2019, 22:21:03
+[101] Biber.pm:371> INFO - Reading '/Users/avitkbhowmik/Work/Docentur/CV_Bhowmik/CV_Bhowmik.bcf'
+[231] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[232] Biber.pm:854> INFO - Using all citekeys in bib section 1
+[232] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[232] Biber.pm:854> INFO - Using all citekeys in bib section 2
+[232] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[233] Biber.pm:854> INFO - Using all citekeys in bib section 3
+[233] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[239] Biber.pm:854> INFO - Using all citekeys in bib section 4
+[239] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[239] Biber.pm:854> INFO - Using all citekeys in bib section 5
+[239] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[239] Biber.pm:854> INFO - Using all citekeys in bib section 6
+[239] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[239] Biber.pm:854> INFO - Using all citekeys in bib section 7
+[239] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[296] Biber.pm:3976> INFO - Processing section 1
+[307] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 1
+[314] bibtex.pm:1500> INFO - LaTeX decoding ...
+[435] bibtex.pm:1316> INFO - Found BibTeX data source 'bibliography.bib'
+[439] Utils.pm:193> WARN - Duplicate entry key: 'otto_social_2018' in file 'bibliography.bib', skipping ...
+[447] Utils.pm:193> WARN - Duplicate entry key: 'bhowmik_mapping_2015' in file 'bibliography.bib', skipping ...
+[798] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[829] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[1082] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1082] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1082] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1082] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[1155] Biber.pm:3976> INFO - Processing section 2
+[1155] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 2
+[1493] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[1521] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[1782] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1782] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1782] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[1782] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[1854] Biber.pm:3976> INFO - Processing section 3
+[1854] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 3
+[2209] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[2245] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[2506] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2506] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2506] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[2506] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[2577] Biber.pm:3976> INFO - Processing section 4
+[2577] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 4
+[2921] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[2949] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[3192] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3192] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3192] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[3192] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[3262] Biber.pm:3976> INFO - Processing section 5
+[3262] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 5
+[3595] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[3623] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[3873] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3873] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3874] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[3874] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[3943] Biber.pm:3976> INFO - Processing section 6
+[3944] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 6
+[4277] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[4305] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[4552] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4552] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4553] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[4553] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[4623] Biber.pm:3976> INFO - Processing section 7
+[4623] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 7
+[4956] Utils.pm:193> WARN - ISBN '978-3-642-39648-9 978-3-642-39649-6' in entry 'bhowmik_space-time_2013' is invalid - run biber with '--validate_datamodel' for details.
+[4984] Utils.pm:193> WARN - ISBN '978-3-642-21927-6 978-3-642-21928-3' in entry 'bhowmik_statistical_2011' is invalid - run biber with '--validate_datamodel' for details.
+[5228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5228] Biber.pm:3804> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[5228] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[5298] bbl.pm:617> INFO - Writing '/Users/avitkbhowmik/Work/Docentur/CV_Bhowmik/CV_Bhowmik.bbl' with encoding 'UTF-8'
+[5546] bbl.pm:720> INFO - Output to /Users/avitkbhowmik/Work/Docentur/CV_Bhowmik/CV_Bhowmik.bbl
+[5547] Biber.pm:110> INFO - WARNINGS: 16
